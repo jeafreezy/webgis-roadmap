@@ -165,3 +165,13 @@ Finally, we hope you find this article helpful, if you do kindly share with your
 Tek is the research Associate at Geoinformatics Center, Asian Institute of Technology, Thailand. He is mainly working on web-GIS technology and spatial data analysis.
 
 1. [**Emmanuel Jolaiya**](https://linktr.ee/JolaiyaEmmanuel) is a GIS developer with a really really really special interest in geospatial community development.
+
+
+**TODO**
+
+- Clean up repo
+- Contributions guideline
+- Deploy on GitHub pages
+- Constant improvement
+- Table of contents
+- Add learning guide flowchart
