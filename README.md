@@ -183,3 +183,4 @@ Tek is the research Associate at Geoinformatics Center, Asian Institute of Techn
 - Constant improvement
 - Table of contents
 - Add learning guide flowchart
+- Add more geospatial books to resources
