@@ -8,11 +8,19 @@ The motivation behind this guide emanates from the challenge the authors experie
 
 It&#39;s important to mention that there exists a lot of programming languages e.g Python, Javascript, C, C++, R, Java, Rust, Go etc and we understand that they can be overwhelming. Which of the languages should I learn first? Where should I start from? I&#39;m done with Python, what next? These are the common questions we have received from beginners in the geospatial programming world. Don&#39;t worry, stick with us, this guide would provide answers to most of your questions. Don&#39;t forget that only a few people can set a goal and achieve it. It takes determination and self motivation to start and learn a new technology to a satisfactory level. Without motivation you might not be able to make any progress. What always helps is **to try and learn one thing at a time in a certain order, hence the need for a guide such as this.** Note that the recommendations in this guide are not to be necessarily followed strictly, please feel free to go at your pace! Infact,feel free to refine this guide to your taste!
 
+**Blogs**
+
+- To be updated soon
+
+**Table of Contents**
+
+- To be updated soon
+
 **Learning Guide**
 
 Below is a flowchart that summarises the whole learning guide to become a Web GIS developer.
 
-![](RackMultipart20210718-4-1why2bf_html_ab92fc617f5c68dd.png)
+- To be updated soon
 
 1. **Start with GIS and a GIS Software**
 
