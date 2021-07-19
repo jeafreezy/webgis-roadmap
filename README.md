@@ -1,5 +1,20 @@
 # Open-Source Web-GIS Development Roadmap
 
+## Table of Contents
+
+[1. Introduction](#introduction)
+[2. Blogs](#blogs)
+[3. Learning Guide](#learning-guide)
+[4. Start with GIS and a GIS Software](#gis)
+[5. Then Pickup HTML and CSS](#html-css)
+[6. Learn JavaScript](#js)
+[7. Learn about mapping libraries and other required utilities](#mapping-libraries)
+[8. Now It&#39;s time to start working with map servers](#mapping-servers)
+[9. Learn about databases and backend](#backend)
+[10. Learn a frontend frameworks (Additional)](#frontend)
+[11. Final Notes](#final-notes)
+[12. Written by](#written-by)
+
 ## Introduction
 
 The advent of the web has transformed everything around us and GIS is no exception. Web-GIS is the pattern or architectural approach for implementing the modern GIS.It enables the distribution of maps and processing tools without time and location restriction to users. Web-GIS allows visual interaction with the geospatial data on the web (either on our mobile phones, desktop software,tablets and practically anywhere with a web browser). This article will provide a step-by-step learning guide, garnered from years of experience of the two authors as well as extensive research, to support your Web-GIS development journey.
@@ -34,7 +49,7 @@ Web-GIS can be considered as a variant of GIS, therefore it is expedient to have
 - [**GIS Introduction**](https://mgimond.github.io/Spatial/introGIS.html)
 - [**Book: GIS Fundamentals**](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/1593995520)
 
-## 2. Then Pickup HTML and CSS <a name='html-css' />
+## 2. Then Pickup HTML and CSS<a name='html-css' />
 
 HTML is a markup language for documents designed to be displayed in a web browser. HTML is used to create pages and make them functional. The CSS is the style sheet language used to create the visual appearance of HTML. HTML and CSS are easy to understand, simple to edit, supported by all browsers. You can create pages with HTML and CSS (eg. login/sign up page, contact us page) and build small projects (eg. facebook login page, youtube clone etc) on it.
 
@@ -50,7 +65,7 @@ Here are some useful resources &amp; projects for learning HTML and CSS:
 - [Create a navbar with flexbox (youtube video)](https://www.youtube.com/watch?v=PwWHL3RyQgk)
 - [Make facebook login page (youtube tutorial)](https://youtu.be/UqYjdaCfgvE)
 
-## 3. Learn JavaScript <a name='js'>
+## 3. Learn JavaScript<a name='js'>
 
 JavaScript helps to add the interactivity to your HTML and CSS pages. It is mainly used for client-side purposes. Nowadays, people are using it in server-side ([NodeJs](https://nodejs.org/en/)), in games development ([EaseJs](https://createjs.com/easeljs)), in mobile app development ([React Native](https://reactnative.dev/)) as well. But for the web-GIS developer roadmap, you just need to learn it&#39;s application on web development only. That means client-side and server-side only. JavaScript helps us to put logic in the rendering of the pages. Show or hide more information with the click of a button, Zooming in or zooming out on a map, displaying animation to the page etc are some use cases of the javascript.
 
@@ -133,7 +148,7 @@ Using the backend, now you can connect the mapping server and create the interac
 
 **Resources:**
 
-- [Spatial bookmarking note (Youtube playlist)](https://youtube.com/playlist?list=PLyWyQBSWLw1OUfqcPzO6AceuGpC5gr-_n)
+- [Spatial bookmarking note (Youtube playlist)](https://youtube.com/playlist?list=PLyWyQBSWLw1OUfqcPzO6AceuGpC5gr-\_n)
 - [Introduction to Web Mapping and Web GIS ( Udemy course)](https://www.udemy.com/course/introduction-to-web-mapping-and-web-gis-2020-geodjango/?referralCode=72E09BDD6D9C8ECE2169)
 - [Web mapping and Web-GIS from Dev to Deploy 2021: GeoDjango (Udemy course)](https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/?referralCode=14893C9BD7E7D959F865)
 - [Make a Location-Based Web App With Django and GeoDjango (Blog)](https://realpython.com/location-based-app-with-geodjango-tutorial/)
