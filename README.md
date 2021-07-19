@@ -38,10 +38,6 @@ It&#39;s important to mention that there exists a lot of programming languages e
 
 - To be updated soon
 
-## Table of Contents
-
-- To be updated soon
-
 ## Learning Guide
 
 Below is a flowchart that summarises the whole learning guide to become a Web GIS developer.
