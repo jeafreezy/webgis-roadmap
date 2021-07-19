@@ -22,7 +22,7 @@ Below is a flowchart that summarises the whole learning guide to become a Web GI
 
 ![Web-GIS roadmap guidline](https://github.com/jeafreezy/webgis-roadmap/blob/main/img/webgis_roadmap.jpg)
 
-## 1. Start with GIS and a GIS Software
+## 1. Start with GIS and a GIS Software<a name="gis" />
 
 Web-GIS can be considered as a variant of GIS, therefore it is expedient to have a solid understanding of what GIS itself entails. Knowledge of a GIS software is also highly recommended because sometimes, these software helps in making our development work easier and faster, they can also act as a testing environment. The underlying concepts of most of these software are the same, therefore it&#39;s important not to shy away from the fundamentals of GIS. It&#39;s as important as learning to code, because this knowledge would help you in decision making , doing what is right and following best practices.
 
@@ -34,7 +34,7 @@ Web-GIS can be considered as a variant of GIS, therefore it is expedient to have
 - [**GIS Introduction**](https://mgimond.github.io/Spatial/introGIS.html)
 - [**Book: GIS Fundamentals**](https://www.amazon.com/GIS-Fundamentals-Geographic-Information-Systems/dp/1593995520)
 
-## 2. Then Pickup HTML and CSS
+## 2. Then Pickup HTML and CSS <a name='html-css' />
 
 HTML is a markup language for documents designed to be displayed in a web browser. HTML is used to create pages and make them functional. The CSS is the style sheet language used to create the visual appearance of HTML. HTML and CSS are easy to understand, simple to edit, supported by all browsers. You can create pages with HTML and CSS (eg. login/sign up page, contact us page) and build small projects (eg. facebook login page, youtube clone etc) on it.
 
@@ -50,7 +50,7 @@ Here are some useful resources &amp; projects for learning HTML and CSS:
 - [Create a navbar with flexbox (youtube video)](https://www.youtube.com/watch?v=PwWHL3RyQgk)
 - [Make facebook login page (youtube tutorial)](https://youtu.be/UqYjdaCfgvE)
 
-## 3. Learn JavaScript
+## 3. Learn JavaScript <a name='js'>
 
 JavaScript helps to add the interactivity to your HTML and CSS pages. It is mainly used for client-side purposes. Nowadays, people are using it in server-side ([NodeJs](https://nodejs.org/en/)), in games development ([EaseJs](https://createjs.com/easeljs)), in mobile app development ([React Native](https://reactnative.dev/)) as well. But for the web-GIS developer roadmap, you just need to learn it&#39;s application on web development only. That means client-side and server-side only. JavaScript helps us to put logic in the rendering of the pages. Show or hide more information with the click of a button, Zooming in or zooming out on a map, displaying animation to the page etc are some use cases of the javascript.
 
@@ -62,7 +62,7 @@ Here are some useful resources &amp; projects for learning JavaScript:
 - [17 JavaScript Projects for Beginner](https://mikkegoes.com/javascript-projects-for-beginners/)
 - [Learn JavaScript freeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
-## 4. Learn about mapping libraries and other required utilities
+## 4. Learn about mapping libraries and other required utilities<a name="mapping-libraries" />
 
 The most common thing required in a web-GIS portal is the data visualization interface. The data visualization interface can be built easily with the help of mapping libraries. Here are the lists of some most commonly used mapping libraries;
 
@@ -92,7 +92,7 @@ Here are the some project ideas that can help you to improve your knowledge
 - [Qgis2Web tutorial](https://www.qgistutorials.com/en/docs/web_mapping_with_qgis2web.html)
 - Read from the official website of the required library
 
-## 5. Now It&#39;s time to start working with map servers
+## 5. Now It&#39;s time to start working with map servers<a name="mapping-servers" />
 
 For publishing a small amount of the structural dataset, learning mapping libraries is enough. But the complexity will increase when you have a large volume of data from different sources. To manage such a problem we need a web map server. Map servers are the servers which can easily manage the large amount of geospatial dataset and provide the Open Geospatial Consortium (OGC) standard services like Web Map Service (WMS), Web Feature Service (WFS), Web Coverage Service (WCS). One of the most commonly used mapping servers is geoserver. The geoserver is an open source server for sharing, processing and editing the geospatial data. Here is the list of some most commonly used mapping server below:
 
@@ -115,7 +115,7 @@ In this stage it is better to learn about the [OGC standards](https://www.ogc.or
 - [GeoNetwork documentation](https://geonetwork-opensource.org/docs.html)
 - [OGC standards](https://www.ogc.org/docs/is)
 
-## 6. Learn about databases and backend
+## 6. Learn about databases and backend<a name="backend" />
 
 For the web-mapping things and simple applications, upto step 5 is ok. But in case of a large application you need a database and backend as well. In general, a database is used to store the geospatial data and the backend is used to query and get the required information in any web-applications. The backend can control and send the logic to the web-application. There are lots of programming languages and frameworks purely dedicated to backend. The most popular languages are, python, php, javascript, java, ruby, rust etc. The most popular frameworks are django, laravel, ruby on rails, flask, expressjs, spring etc. You can choose one language first and learn the framework later. Let&#39;s suppose you want to learn about django (Python framework), you need to spend some time on learning python before.
 
@@ -143,7 +143,7 @@ Using the backend, now you can connect the mapping server and create the interac
 - [Interactive learning platform by Crunchy Data](https://learn.crunchydata.com/training/postgis)
 - [Geodjango playlist](https://www.youtube.com/watch?v=pxX6gI48eh4)
 
-## 8. Learn a frontend frameworks (Additional)
+## 8. Learn a frontend frameworks (Additional)<a name="frontend" />
 
 Frontend frameworks help to determine the logic, structure, design, behaviour and animation of every element you see on screen when you interact with web applications. The frontend framework makes it easy to build the web pages faster. We can say this as an additional thing since we can build the web-GIS applications without learning any frontend frameworks as well. The most popular frontend libraries on javascript are as below,
 
@@ -159,13 +159,13 @@ Frontend frameworks help to determine the logic, structure, design, behaviour an
 - [React documentation](https://reactjs.org/docs/getting-started.html)
 - [React courses](https://reactjs.org/community/courses.html)
 
-## Final Notes
+## Final Notes<a name="final-notes" />
 
 The list we have put together is absolutely non exhaustive. We all know the geospatial industry keeps growing on a daily, there are emerging technologies we didn&#39;t capture such as; Augmented Reality(AR) and Virtual Reality(VR), Spatiotemporal Asset Catalogue(STAC), Cloud Optimized Geotiffs(COGs), Google Earth Engine, Microsoft Planetary Computer and many more earth observation tools and technologies. The goal of the article was not to overwhelm you with trending technologies and we believe you&#39;ll learn about them as you make progress. Just get started first!
 
 Finally, we hope you find this article helpful, if you do kindly share with your networks and should in case you have any questions, comments or suggestions, feel free to reach out on social media or shoot us an email! Happy learning!
 
-## Written by:
+## Written by:<a name="written-by" />
 
 1. [Tek Kshetri](https://www.linkedin.com/in/iamtekson/) is the research Associate at Geoinformatics Center, Asian Institute of Technology, Thailand. He is mainly working on web-GIS technology and spatial data analysis.
 
