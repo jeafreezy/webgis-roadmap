@@ -3,16 +3,27 @@
 ## Table of Contents
 
 [1. Introduction](#introduction)
+
 [2. Blogs](#blogs)
+
 [3. Learning Guide](#learning-guide)
+
 [4. Start with GIS and a GIS Software](#gis)
+
 [5. Then Pickup HTML and CSS](#html-css)
+
 [6. Learn JavaScript](#js)
+
 [7. Learn about mapping libraries and other required utilities](#mapping-libraries)
+
 [8. Now It&#39;s time to start working with map servers](#mapping-servers)
+
 [9. Learn about databases and backend](#backend)
+
 [10. Learn a frontend frameworks (Additional)](#frontend)
+
 [11. Final Notes](#final-notes)
+
 [12. Written by](#written-by)
 
 ## Introduction
