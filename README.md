@@ -20,7 +20,7 @@ It&#39;s important to mention that there exists a lot of programming languages e
 
 Below is a flowchart that summarises the whole learning guide to become a Web GIS developer.
 
-![Web-GIS roadmap guidline](https://github.com/jeafreezy/webgis-roadmap/blob/main/img/webgis_development_flowchart.png)
+![Web-GIS roadmap guidline](https://github.com/jeafreezy/webgis-roadmap/blob/main/img/webgis_roadmap.jpg)
 
 1. **Start with GIS and a GIS Software**
 
