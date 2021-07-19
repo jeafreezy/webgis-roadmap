@@ -20,10 +20,9 @@ It&#39;s important to mention that there exists a lot of programming languages e
 
 Below is a flowchart that summarises the whole learning guide to become a Web GIS developer.
 
-- To be updated soon
+![Web-GIS roadmap guidline](./img/webgis_development_flowchart.png, "Web-GIS roadmap flowchart")
 
 1. **Start with GIS and a GIS Software**
-
 
 Web-GIS can be considered as a variant of GIS, therefore it is expedient to have a solid understanding of what GIS itself entails. Knowledge of a GIS software is also highly recommended because sometimes, these software helps in making our development work easier and faster, they can also act as a testing environment. The underlying concepts of most of these software are the same, therefore it&#39;s important not to shy away from the fundamentals of GIS. It&#39;s as important as learning to code, because this knowledge would help you in decision making , doing what is right and following best practices.
 
@@ -173,7 +172,6 @@ Finally, we hope you find this article helpful, if you do kindly share with your
 Tek is the research Associate at Geoinformatics Center, Asian Institute of Technology, Thailand. He is mainly working on web-GIS technology and spatial data analysis.
 
 1. [**Emmanuel Jolaiya**](https://linktr.ee/JolaiyaEmmanuel) is a GIS developer with a really really really special interest in geospatial community development.
-
 
 **TODO**
 
