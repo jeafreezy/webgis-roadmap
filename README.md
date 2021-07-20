@@ -36,7 +36,7 @@ It&#39;s important to mention that there exists a lot of programming languages e
 
 ## Blogs
 
-- To be updated soon
+- [GIS LOUNGE](https://www.gislounge.com/open-source-web-gis-development-roadmap/)
 
 ## Learning Guide
 
@@ -194,11 +194,8 @@ Finally, we hope you find this article helpful, if you do kindly share with your
 1. [**Emmanuel Jolaiya**](https://linktr.ee/JolaiyaEmmanuel) is a GIS developer with a really really really special interest in geospatial community development.
 
 **TODO**
-
-- Clean up repo
 - Contributions guideline
 - Deploy on GitHub pages
 - Constant improvement
-- Table of contents
-- Add learning guide flowchart
 - Add more geospatial books to resources
+- Update with suggestions from LinkedIn
