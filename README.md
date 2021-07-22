@@ -125,7 +125,6 @@ For publishing a small amount of the structural dataset, learning mapping librar
 
 - [GeoServer](http://geoserver.org/) : An open-source server for sharing geospatial data.
 - [MapServer](https://mapserver.org/) :Mapserver is an open-source platform for publishing spatial data and publishing interactive mapping applications to the web.
-- [GeoTool](https://geotools.org/) : The open-source java GIS toolkit.
 - [GeoNetwork](https://geonetwork-opensource.org/) : A catalog application to manage spatially referenced resources.
 - [GLG map server](http://www.genlogic.com/) : Generic Logic Inc. is a premier provider of real-time graphics, data visualization, HMI Scada and custom GIS solutions for software developers around the world.
 - [Open Map Tiles](https://openmaptiles.org/) : A platform to self-host open-source maps.
