@@ -92,8 +92,9 @@ Here are some useful resources &amp; projects for learning JavaScript:
 
 The most common thing required in a web-GIS portal is the data visualization interface. The data visualization interface can be built easily with the help of mapping libraries. Here are the lists of some most commonly used mapping libraries;
 
-- [LeafletJs](https://leafletjs.com/) **:** It is the open-source, lightweight javascript library
+- [LeafletJs:](https://leafletjs.com/) It is the open-source, lightweight javascript library
 - [Open layer:](https://openlayers.org/) It is also an open-source javascript library
+- [Maplibre-gl-js:](https://github.com/maplibre/maplibre-gl-js) It is the open-source javascript library, originated as an open-source fork of mapbox-gl-js, the library is intended to be a drop-in replacement for the Mapbox’s version with additional functionality.
 - [Mapbox:](https://www.mapbox.com/) It is an American provider of custom online maps for websites. It is not totally free. Check the [mapbox pricing here](https://www.mapbox.com/pricing/).
 - [Google mapping API:](https://developers.google.com/maps) It is the web mapping API provided by google. It is also not totally free. Check the [google mapping api pricing here](https://cloud.google.com/maps-platform/pricing).
 - [Turf JS](https://turfjs.org/): Advanced geospatial analysis for browser and Node.js. etc
