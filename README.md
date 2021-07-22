@@ -26,9 +26,9 @@
 
 [12. What next?](#next)
 
-[12. Final Notes](#final-notes)
+[13. Final Notes](#final-notes)
 
-[13. Written by](#written-by)
+[14. Written by](#written-by)
 
 ## Introduction
 
