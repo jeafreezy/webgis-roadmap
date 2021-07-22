@@ -192,7 +192,17 @@ TODO\*\*\*
 
 ## What next?<a name="next" />
 
-TODO\*\*\*\* (Mention about the cloud solution, deployment guide etc which are not the part of web-GIS but will help to become a professional.)
+If you follow the above mentioned path, congratulations! you are already a web-GIS developer. But anyway the learning process will never end. As quote says "Never stop learning because life never stop teaching", we need to stay up to date with the latest tools and technologies. Here are the few things, which will definately helps in your carrier,
+
+- Learn about the deployment of the web-GIS applications
+- Learn about the GIS cloud native solutions
+- Learn about the geoprocessing and geotool development
+
+**Resources:**
+
+- [GeoDJango deployment guide (Youtube playlist)](https://www.youtube.com/playlist?list=PLyWyQBSWLw1OENGLl5qWCCKi0ZCFW2oTT)
+- [New open source GIS projects for Kubernetes applications (blog)](https://opensource.com/article/20/4/gis-kubernetes)
+- [Geoprocessing with python (book)](https://www.manning.com/books/geoprocessing-with-python)
 
 ## Final Notes<a name="final-notes" />
 
