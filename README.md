@@ -22,9 +22,13 @@
 
 [10. Learn a frontend frameworks (Additional)](#frontend)
 
-[11. Final Notes](#final-notes)
+[11. Learn about SDI platforms (Additional)](#sdi)
 
-[12. Written by](#written-by)
+[12. What next?](#next)
+
+[12. Final Notes](#final-notes)
+
+[13. Written by](#written-by)
 
 ## Introduction
 
@@ -42,7 +46,7 @@ It&#39;s important to mention that there exists a lot of programming languages e
 
 Below is a flowchart that summarises the whole learning guide to become a Web GIS developer.
 
-![Web-GIS roadmap guidline](https://github.com/jeafreezy/webgis-roadmap/blob/main/img/webgis_roadmap.jpg)
+![Web-GIS roadmap guidline](https://github.com/jeafreezy/webgis-roadmap/blob/main/img/webgis_roadmap_v2.png)
 
 ## 1. Start with GIS and a GIS Software<a name="gis" />
 
@@ -165,7 +169,7 @@ Using the backend, now you can connect the mapping server and create the interac
 - [Interactive learning platform by Crunchy Data](https://learn.crunchydata.com/training/postgis)
 - [Geodjango playlist](https://www.youtube.com/watch?v=pxX6gI48eh4)
 
-## 8. Learn a frontend frameworks (Additional)<a name="frontend" />
+## 7. Learn a frontend frameworks (Additional)<a name="frontend" />
 
 Frontend frameworks help to determine the logic, structure, design, behaviour and animation of every element you see on screen when you interact with web applications. The frontend framework makes it easy to build the web pages faster. We can say this as an additional thing since we can build the web-GIS applications without learning any frontend frameworks as well. The most popular frontend libraries on javascript are as below,
 
@@ -181,6 +185,14 @@ Frontend frameworks help to determine the logic, structure, design, behaviour an
 - [React documentation](https://reactjs.org/docs/getting-started.html)
 - [React courses](https://reactjs.org/community/courses.html)
 
+## 8. Learn about SDI platforms (Additional)<a name="sdi" />
+
+TODO\*\*\*
+
+## What next?<a name="next" />
+
+TODO\*\*\*\* (Mention about the cloud solution, deployment guide etc which are not the part of web-GIS but will help to become a professional.)
+
 ## Final Notes<a name="final-notes" />
 
 The list we have put together is absolutely non exhaustive. We all know the geospatial industry keeps growing on a daily, there are emerging technologies we didn&#39;t capture such as; Augmented Reality(AR) and Virtual Reality(VR), Spatiotemporal Asset Catalogue(STAC), Cloud Optimized Geotiffs(COGs), Google Earth Engine, Microsoft Planetary Computer and many more earth observation tools and technologies. The goal of the article was not to overwhelm you with trending technologies and we believe you&#39;ll learn about them as you make progress. Just get started first!
@@ -194,6 +206,7 @@ Finally, we hope you find this article helpful, if you do kindly share with your
 1. [**Emmanuel Jolaiya**](https://linktr.ee/JolaiyaEmmanuel) is a GIS developer with a really really really special interest in geospatial community development.
 
 **TODO**
+
 - Contributions guideline
 - Deploy on GitHub pages
 - Constant improvement
