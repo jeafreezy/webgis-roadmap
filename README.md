@@ -188,7 +188,20 @@ Frontend frameworks help to determine the logic, structure, design, behaviour an
 
 ## 8. Learn about SDI platforms (Additional)<a name="sdi" />
 
-TODO\*\*\*
+You can always build your web-GIS platform from scratch using above mentioned technologies, but what if you found some pre-build system that can be modified for your application? There are alread some spatial data infrastructure (SDI) platforms, which helps to speed up your web-GIS development. Some of the most famous SDI are listed below,
+
+- [GeoNode:](https://geonode.org/) It is an Open-source web-GIS based Content Management System (CMS), which is mainly used for the data sharing.
+- [GeoTools:](https://geotools.org/) It is an open-source Java library that provides tools for geospatial data.
+- [MapStore 2:](https://mapstore.readthedocs.io/en/v2019.01.00/) It is an open-source highly modular webgis framework developed by GeoSolutions to create, manage and securely share maps and mashups.
+- [Ckan:](https://ckan.org) It is an open-source data management system. It can store both spatial and non spatial data.
+
+**Recommendation:** You can explore as many SDI platforms as you can. More you used, more you will know about the web-GIS structure.
+
+**Resources:**
+
+- [GeoNode documentation](https://docs.geonode.org/en/master/)
+- [GeoTools quickstart guide](https://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html)
+- [MapStore 2 documentation](https://mapstore.readthedocs.io/en/latest/developer-guide/)
 
 ## What next?<a name="next" />
 
